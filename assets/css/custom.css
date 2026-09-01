@@ -1436,7 +1436,7 @@ STICKY HEADER
 @media (max-width: 991px) {
 
     .pharma-logo-area img {
-        width: 350px;
+        width: 300px;
         height: auto;
         max-width: 100%;
     }
@@ -1451,7 +1451,7 @@ STICKY HEADER
 @media (max-width: 576px) {
 
     .pharma-logo-area img {
-        width:350px;
+        width:300px;
         height: auto;
         max-width: 100%;
     }
@@ -1466,7 +1466,7 @@ STICKY HEADER
 @media (max-width: 400px) {
 
     .pharma-logo-area img {
-        width:300px;
+        width:280px;
         height: auto;
         max-width: 100%;
     }
